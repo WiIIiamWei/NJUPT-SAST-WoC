@@ -1,7 +1,7 @@
 # NJUPT-SAST-WoC
 NJUPT-SAST Winter of Code Challange repo, used to store my code for WoC.
 
-This repo is for viewing only. Using/Copying directly from this unit w/o permission is strictly forbidden as it's against the WoC rules.
+This repo is for viewing only. Using/Copying directly from this repo w/o permission is strictly forbidden as it's against the WoC rules.
 
 Newbie's exploration phase. Don't laugh at me pls.
 
