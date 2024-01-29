@@ -3,4 +3,5 @@
 !/computer_vision/data/test.csv
 !/computer_vision/data/train.csv
 !/computer_vision/data/digit_test/
-/computer_vision/model/
+/computer_vision/model/*
+!/computer_vision/model/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
