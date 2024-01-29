@@ -1,4 +1,6 @@
-python/model/*
-python/code/NOTE.ipynb
-python/data/
-!python/model/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+/computer_vision/data/*
+!/computer_vision/data/submission_final.csv
+!/computer_vision/data/test.csv
+!/computer_vision/data/train.csv
+!/computer_vision/data/digit_test/
+/computer_vision/model/

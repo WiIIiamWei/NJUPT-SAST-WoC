@@ -5,8 +5,16 @@ This repo is for viewing only. Using/Copying directly from this repo w/o permiss
 
 Newbie's exploration phase. Don't laugh at me pls.
 
+**Now completed: All computer-vision tasks.**
+
+**Working on: Web-crawler for TikTok. (Task No. 3)**
+
 南京邮电大学 - 校大学生科协WoC仓库，用于存放我的WoC项目。
 
 本仓库仅供讲师浏览。未经允许直接使用/照抄其中代码是不允许且违反WoC规则的。
 
 还在新手村，高手请不要笑我。
+
+**已经完成：所有计算机视觉相关题目。**
+
+**正在进行：网络爬虫（抖音）（项目3）**
