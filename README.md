@@ -35,4 +35,4 @@
 
 文件：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/releases/tag/Submission)
 
-测试集输出数据：[submission_final.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/data/submission_final.csv)
+测试集输出数据：[submission_final.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/data/submission_final.csv)
