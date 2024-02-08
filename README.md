@@ -5,9 +5,7 @@
 
 还在新手村，高手请不要笑我。
 
-**已经完成：所有计算机视觉相关项目。**
-
-**正在进行：网络爬虫（抖音）（项目3）**
+**所有项目已基本完成，可以验收，有空会改进。**
 
 ## MNIST手写数字识别
 
@@ -36,3 +34,25 @@
 文件：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/releases/tag/Submission)
 
 测试集输出数据：[submission_final.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/data/submission_final.csv)
+
+## 爬取抖音
+
+视频爬取还未正确工作，不知道Selenium出了什么毛病，抓不到还抛不出异常。
+
+代码：[tiktok_2.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/tiktok_2.ipynb)
+
+爬取数据（为方便浏览，改成了csv）：[抖音热搜榜.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/data/抖音热搜榜.csv)
+
+## 爬取淘宝评论
+
+项目已经成功爬取至少365条评论，运行~~还算稳定（需要fresh cookies）~~不太稳定，在不同环境上表现不同。
+
+正确爬取的数据嵌入在爬取代码中。
+
+### 代码
+
+从淘宝搜索页提取的XHR文件提取商品id：[get_id.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/get_id.ipynb)
+
+提取登录cookies：[get_cookies.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/get_cookies.ipynb)
+
+爬取：[tb.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/tb.ipynb)
