@@ -1,11 +1,14 @@
 # NJUPT-SAST-WoC
+
 南京邮电大学 - 校大学生科协WoC仓库，用于存放WoC项目。作者 @WiIIiamWei @uiuik0
 
 本仓库仅供讲师浏览。未经允许直接使用/照抄其中代码是不允许且违反WoC规则的。
 
 还在新手村，高手请不要笑我。
 
-**所有项目已基本完成，可以验收，有空会改进。**
+### 现在的状态
+
+所有项目已基本完成，可以验收，有空会改进。
 
 ## MNIST手写数字识别
 
@@ -37,7 +40,7 @@
 
 ## 爬取抖音
 
-视频爬取还未正确工作，不知道Selenium出了什么毛病，抓不到还抛不出异常。
+已基本实现所有要求的功能。
 
 代码：[tiktok_2.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/tiktok_2.ipynb)
 
