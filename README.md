@@ -1,6 +1,6 @@
-# NJUPT-SAST-WoC
+# NJUPT-SAST-WoC-2023-Python
 
-南京邮电大学 - 校大学生科协WoC仓库，用于存放WoC项目。作者 @WiIIiamWei @uiuik0
+南京邮电大学 - 校大学生科协WoC仓库（2023~2024 Python组任务），用于存放WoC项目。作者 @WiIIiamWei @uiuik0
 
 ~~本仓库仅供讲师浏览。未经允许直接使用/照抄其中代码是不允许且违反WoC规则的。~~
 
