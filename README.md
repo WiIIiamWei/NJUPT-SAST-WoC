@@ -16,9 +16,9 @@
 
 模型使用`tensorflow.keras`搭建，结构为CNN。
 
-代码：[NJUPT_WOC-MNIST-fin.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/code/NJUPT_WOC-MNIST-fin.ipynb)
+代码：[NJUPT_WOC-MNIST-fin.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/code/NJUPT_WOC-MNIST-fin.ipynb)
 
-模型：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/releases/tag/Submission)
+模型：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/releases)
 
 ## 猫狗识别
 
@@ -26,27 +26,27 @@
 
 ### 代码
 
-模型：[catdogde_ww.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/code/catdogde_ww.ipynb)
+模型：[catdogde_ww.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/code/catdogde_ww.ipynb)
 
-图片处理（训练集）：[picprocess_train.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/code/picprocess_train.ipynb)
+图片处理（训练集）：[picprocess_train.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/code/picprocess_train.ipynb)
 
-图片处理（测试集）：[picprocess_test.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/code/picprocess_test.ipynb)
+图片处理（测试集）：[picprocess_test.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/code/picprocess_test.ipynb)
 
-图片处理（Alpha通道换白底）：[convert.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/code/convert.ipynb)
+图片处理（Alpha通道换白底）：[convert.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/code/convert.ipynb)
 
 ### 模型
 
-文件：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/releases/tag/Submission)
+文件：[Releases](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/releases)
 
-测试集输出数据：[submission_final.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/computer_vision/data/submission_final.csv)
+测试集输出数据：[submission_final.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/computer_vision/data/submission_final.csv)
 
 ## 爬取抖音
 
 已基本实现所有要求的功能。
 
-代码：[tiktok_2.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/tiktok_2.ipynb)
+代码：[tiktok_2.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/web_crawler/code/tiktok_2.ipynb)
 
-爬取数据（为方便浏览，改成了csv）：[抖音热搜榜.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/data/抖音热搜榜.csv)
+爬取数据（为方便浏览，改成了csv）：[抖音热搜榜.csv](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/web_crawler/data/抖音热搜榜.csv)
 
 ## 爬取淘宝评论
 
@@ -56,8 +56,8 @@
 
 ### 代码
 
-从淘宝搜索页提取的XHR文件提取商品id：[get_id.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/get_id.ipynb)
+从淘宝搜索页提取的XHR文件提取商品id：[get_id.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/web_crawler/code/get_id.ipynb)
 
-提取登录cookies：[get_cookies.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/get_cookies.ipynb)
+提取登录cookies：[get_cookies.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/web_crawler/code/get_cookies.ipynb)
 
-爬取：[tb.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC/blob/main/web_crawler/code/tb.ipynb)
+爬取：[tb.ipynb](https://github.com/WiIIiamWei/NJUPT-SAST-WoC-2023-Python/blob/main/web_crawler/code/tb.ipynb)
